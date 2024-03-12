@@ -1,7 +1,7 @@
 # Welcome to Kanishka Gour's profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
-
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1738955/screenshots/15406497/media/0bd07e962f5b7acb180b77b2bdd6b9f9.gif">
 
+<br>
 <a href="https://www.linkedin.com/in/kanishka-gour/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kanishka-gour" height="30" width="40" /></a>
 &nbsp;
 <a href="https://twitter.com/Kanishka1328" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Kanishka1328" height="30" width="40" /></a>
@@ -46,7 +46,7 @@
     <a href="#"><img alt="Socket.io" src="https://img.shields.io/badge/socket.io-000.svg?logo=socket.io&logoColor=white"></a>
     <a href="#"><img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-32CD32.svg?logo=opencv&logoColor=white"></a>
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
-    <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
+      <a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/TailwindCSS-30D5C8.svg?logo=tailwindcss&logoColor=white"></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
 </p>
 
