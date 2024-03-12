@@ -1,6 +1,6 @@
 # Welcome to Kanishka Gour's profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1738955/screenshots/15406497/media/0bd07e962f5b7acb180b77b2bdd6b9f9.gif">
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1738955/screenshots/15406497/media/0bd07e962f5b7acb180b77b2bdd6b9f9.gif">
 
 <a href="https://www.linkedin.com/in/kanishka-gour/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kanishka-gour" height="30" width="40" /></a>
 &nbsp;
@@ -8,6 +8,7 @@
 &nbsp;
 <a href="https://www.instagram.com/__.kanishka_________/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.kanishka____" height="30" width="40" /></a>
 &nbsp;
+
 
 ## Glad to see you here! 🤩
 👩‍🎓 I'm a coding enthusiast & pursuing my B. Tech in Mathematics and Computing at IIT(BHU) Varanasi<br>
@@ -71,6 +72,7 @@
     <a href="#"><img alt="Jira" src="https://img.shields.io/badge/Jira-FF6C37?logo=jira&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
+
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kanishka-28&theme=dark&hide_border=true)<br/>
