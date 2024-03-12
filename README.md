@@ -1,3 +1,22 @@
+# Welcome to Kanishka Gour's profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+
+<a href="https://www.linkedin.com/in/kanishka-gour/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kanishka-gour" height="30" width="40" /></a>
+&nbsp;
+<a href="https://twitter.com/Kanishka1328" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Kanishka1328" height="30" width="40" /></a>
+&nbsp;
+<a href="https://www.instagram.com/_.kanishka____/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.kanishka____" height="30" width="40" /></a>
+&nbsp;
+
+
+## Glad to see you here!
+<img align="right" alt= "Coding" width="400 src-"https://cdn.dribbble.com/users/1738955/screenshots/15406497/media/0bd07e962f5b7acb180b77b2bdd6b9f9.gif")
+• I'm a coding enthusiast & pursuing my B. Tech in Mathematics and Computing at IIT(BHU) Varanasi
+§ I'm currently learning distributed systems<br>
+( Ask me about anything, I am happy to help
+I
+How to reach me: kanishkagour28@gmail.com
+
+
 # 💫 About Me:
 🌱 I’m currently learning distributed systems<br>📫 How to reach me: kanishkagour28@gmail.com
 
