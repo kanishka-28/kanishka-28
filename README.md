@@ -38,9 +38,9 @@
 
 <p>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
-    <a href="#"><img alt="NextJS" src="https://img.shields.io/badge/Next.Js-000.svg?logo=next.js&logoColor=white"></a>
     <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
     <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
+    <a href="#"><img alt="NextJS" src="https://img.shields.io/badge/Next.Js-000.svg?logo=next.js&logoColor=white"></a>
     <a href="#"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-00CED1.svg?logo=fastapi&logoColor=white"></a>
     <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000.svg?logo=flask&logoColor=white"></a>
     <a href="#"><img alt="Socket.io" src="https://img.shields.io/badge/socket.io-000.svg?logo=socket.io&logoColor=white"></a>
