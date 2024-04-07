@@ -13,7 +13,7 @@
 
 
 ## Glad to see you here! 🤩
-👩‍🎓 I'm a coding enthusiast, pursuing my B. Tech in Mathematics and Computing at IIT(BHU) Varanasi<br>
+👩‍🎓 I'm a coding enthusiast, pursuing B.Tech in Mathematics and Computing at IIT(BHU) Varanasi<br>
 🌱 Lifelong learner exploring new technologies and frameworks<br>
 💬 Ask me about anything, I am happy to help<br>
 🤝 I'm open to collaborating on interesting projects<br>
